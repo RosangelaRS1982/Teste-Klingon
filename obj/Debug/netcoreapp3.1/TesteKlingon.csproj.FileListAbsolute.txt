@@ -1,0 +1,12 @@
+C:\TesteKinglon\TesteKlingon\bin\Debug\netcoreapp3.1\TesteKlingon.exe
+C:\TesteKinglon\TesteKlingon\bin\Debug\netcoreapp3.1\TesteKlingon.deps.json
+C:\TesteKinglon\TesteKlingon\bin\Debug\netcoreapp3.1\TesteKlingon.runtimeconfig.json
+C:\TesteKinglon\TesteKlingon\bin\Debug\netcoreapp3.1\TesteKlingon.runtimeconfig.dev.json
+C:\TesteKinglon\TesteKlingon\bin\Debug\netcoreapp3.1\TesteKlingon.dll
+C:\TesteKinglon\TesteKlingon\bin\Debug\netcoreapp3.1\TesteKlingon.pdb
+C:\TesteKinglon\TesteKlingon\obj\Debug\netcoreapp3.1\TesteKlingon.AssemblyInfoInputs.cache
+C:\TesteKinglon\TesteKlingon\obj\Debug\netcoreapp3.1\TesteKlingon.AssemblyInfo.cs
+C:\TesteKinglon\TesteKlingon\obj\Debug\netcoreapp3.1\TesteKlingon.csproj.CoreCompileInputs.cache
+C:\TesteKinglon\TesteKlingon\obj\Debug\netcoreapp3.1\TesteKlingon.dll
+C:\TesteKinglon\TesteKlingon\obj\Debug\netcoreapp3.1\TesteKlingon.pdb
+C:\TesteKinglon\TesteKlingon\obj\Debug\netcoreapp3.1\TesteKlingon.genruntimeconfig.cache
